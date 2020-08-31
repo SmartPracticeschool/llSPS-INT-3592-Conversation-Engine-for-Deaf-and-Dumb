@@ -11,6 +11,10 @@ This is the ipynb file to train andpredict the model.
 conversation engine.h5:
 This is the model file that helps in CNN prediction.
 
+https://drive.google.com/file/d/1foAuHX5gq_yhn3INpgaHkHWXzqkvBzjz/view?usp=sharing
+
+Access the model file from the drive link
+
 
 
 base.html:
