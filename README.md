@@ -3,7 +3,7 @@ This project does the coverstion of sign language into text and vice versa.
 The dataset is taken from kaggle and github.You can download and extract the files.
 
 
-training_prediction:
+project.py:
 This is the ipynb file to train andpredict the model.
 
 
@@ -17,14 +17,9 @@ Access the model file from the drive link
 
 
 
-base.html:
-This is the file that contains the html,css and javascript code to display the UI of webpage.
+flask folder: this folder hs the base.html,sample image and flask.py file.
 
+project demo 1 : this is our project demo.
 
-
-convo.py:
-This is the flask code for web deployment.
-
-The sample predicting image is taken from one of the test sets
 
 
